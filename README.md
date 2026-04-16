@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Chris 🦊
+# Hi, I'm Christp+opher 🦊
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+%2B+AI+Developer" alt="Typing SVG" />
 
@@ -149,6 +149,18 @@ const itschrisedu = {
 </div>
 
 ---
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=itschrisedu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itschrisedu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itschrisedu&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+</div>
 
 <div align="center">
 
