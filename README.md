@@ -91,7 +91,6 @@ const itschrisedu = {
 </div>
 
 ---
-
 ## 🎯 Project Highlights
 
 <table>
@@ -99,16 +98,16 @@ const itschrisedu = {
     <td width="50%">
       <h3 align="center">🌟 Featured Project</h3>
       <div align="center">  
-        <a href="https://github.com/itschrisedu">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itschrisedu&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        <a href="https://github.com/itschrisedu/Bioacces">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itschrisedu&repo=Bioacces&theme=tokyonight&hide_border=true&bg_color=0D1117" />
         </a>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">🚀 Latest Work</h3>
       <div align="center">
-        <a href="https://github.com/itschrisedu">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itschrisedu&repo=your-other-repo&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        <a href="https://github.com/itschrisedu/life_insurance_front">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itschrisedu&repo=life_insurance_front&theme=tokyonight&hide_border=true&bg_color=0D1117" />
         </a>
       </div>
     </td>
