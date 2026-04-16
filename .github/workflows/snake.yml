@@ -3,22 +3,21 @@ name: GitHub Readme Snake CI
 on:
   schedule:
     - cron: '25 17 * * *'
-  
   workflow_dispatch:
   push:
     branches:
       - main
-    
-  
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk/svg-only@v3
@@ -31,7 +30,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist

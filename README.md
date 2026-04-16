@@ -89,7 +89,64 @@ const itschrisedu = {
 
 </div>
 
+---
 
+## 🎯 Project Highlights
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌟 Featured Project</h3>
+      <div align="center">  
+        <a href="https://github.com/itschrisedu">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itschrisedu&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚀 Latest Work</h3>
+      <div align="center">
+        <a href="https://github.com/itschrisedu">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itschrisedu&repo=your-other-repo&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌊 Contribution Wave
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itschrisedu&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect & Create Something Amazing!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/its.chrisedu)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its.chrisedu)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@chrispaucar49@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itschrisedu/itschrisedu/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itschrisedu/itschrisedu/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/itschrisedu/itschrisedu/output/github-snake.svg" alt="GitHub Snake">
+</picture>
+
+</div>
 
 ---
 
