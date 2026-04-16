@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Christp+opher 🦊
+# Hi, I'm Christpopher 🦊
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+%2B+AI+Developer" alt="Typing SVG" />
 
