@@ -150,13 +150,7 @@ const itschrisedu = {
 
 </div>
 
-<div align="center">
-
-### 💫 *"Turning coffee into code, one commit at a time"* ☕→💻
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-**🌟 Thanks for visiting! Let's build something amazing together! 🌟**
+--- 
 
 <div align="center">
 
@@ -167,6 +161,16 @@ const itschrisedu = {
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrispaucar49@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593987964745)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](#)
+
+--- 
+
+<div align="center">
+
+### 💫 *"Turning coffee into code, one commit at a time"* ☕→💻
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**🌟 Thanks for visiting! Let's build something amazing together! 🌟**
 
 ---
 
