@@ -24,8 +24,8 @@ const itschrisedu = {
     funFact: "I run on coffee and curiosity ☕ — too much of both 😄"
 };
 ```
-<div aling="center">
-<table ">
+<div align="center">
+<table>
 <tr>
 <td>🔭 Currently building</td>
 <td>Smart web apps powered by <b>AI</b></td>
