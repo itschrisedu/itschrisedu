@@ -24,8 +24,8 @@ const itschrisedu = {
     funFact: "I run on coffee and curiosity ☕ — too much of both 😄"
 };
 ```
-
-<table>
+<div aling="center">
+<table ">
 <tr>
 <td>🔭 Currently building</td>
 <td>Smart web apps powered by <b>AI</b></td>
@@ -43,7 +43,7 @@ const itschrisedu = {
 <td><b>Full Stack, AI integrations, System Design</b></td>
 </tr>
 </table>
-
+</div>
 ---
 
 ### :star: Some fun facts!
