@@ -2,7 +2,7 @@
 
 # Hi, I'm Christp+opher 🦊
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Frontend+Developer;Backend+Developer;AI+Developer;QA+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+%2B+AI+Developer" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=itschrisedu&style=for-the-badge&color=blueviolet" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/itschrisedu?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub followers" />
