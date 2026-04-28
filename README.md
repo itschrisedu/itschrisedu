@@ -47,9 +47,9 @@ const itschrisedu = {
 ---
 
 ### :star: Some fun facts!
-- 🦊 I'm a fox at heart — curious, fast, and always exploring
-- ☕ My code quality is directly proportional to my coffee intake
-- 🌎 Building from Ecuador with global ambitions
+- 💡 Focused on architecture, performance, and user experience
+- 🧠 Continuously learning modern technologies and AI
+- 🌎 Open to international opportunities
 
 ---
 
