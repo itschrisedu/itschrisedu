@@ -180,8 +180,7 @@ Route optimization system designed to improve transportation efficiency through 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=itschrisedu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itschrisedu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+username=itschrisedu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <br/>
 
