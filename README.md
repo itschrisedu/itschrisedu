@@ -91,28 +91,78 @@ const itschrisedu = {
 </div>
 
 ---
-## 🎯 Project Highlights
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+Building scalable web applications, intelligent systems, and business-oriented software solutions.
+
+</div>
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌟 Featured Project</h3>
-      <div align="center">  
-        <a href="https://github.com/itschrisedu/Bioacces">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itschrisedu&repo=Bioacces&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚀 Latest Work</h3>
-      <div align="center">
-        <a href="https://github.com/itschrisedu/life_insurance_front">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=itschrisedu&repo=life_insurance_front&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </div>
-    </td>
-  </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛡️ Life Insurance Platform</h3>
+
+<p align="center">
+Enterprise-grade insurance management platform focused on policy administration, customer management, and scalable business workflows.
+</p>
+
+<p align="center">
+<strong>React • TypeScript • Node.js • PostgreSQL</strong>
+</p>
+
+<p align="center">
+<a href="https://github.com/itschrisedu/life_insurance_front">
+<img src="https://opengraph.githubassets.com/1/itschrisedu/life_insurance_front" width="100%" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/itschrisedu/life_insurance_front">🔗 View Repository</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌎 GeoRutas Óptimas</h3>
+
+<p align="center">
+Route optimization system designed to improve transportation efficiency through intelligent path calculation and geographic data analysis.
+</p>
+
+<p align="center">
+<strong>Java • Algorithms • GIS • Data Structures</strong>
+</p>
+
+<p align="center">
+<a href="https://github.com/itschrisedu/GeoRutas_-ptimas">
+<img src="https://opengraph.githubassets.com/1/itschrisedu/GeoRutas_-ptimas" width="100%" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/itschrisedu/GeoRutas_-ptimas">🔗 View Repository</a>
+</p>
+
+</td>
+
+</tr>
 </table>
+
+### ⭐ Other Notable Projects
+
+| Project | Description |
+|----------|-------------|
+| 🧬 **Bioacces** | Biometric access control and user management platform. |
+| 🎫 **MoviPass** | Transportation and digital ticket management solution. |
+| 💼 **Portfolio 2026** | Personal portfolio showcasing full stack and AI-powered projects. |
+
+
 
 ---
 
