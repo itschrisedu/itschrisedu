@@ -180,8 +180,6 @@ Route optimization system designed to improve transportation efficiency through 
 
 <div align="center">
 
-username=itschrisedu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itschrisedu&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
