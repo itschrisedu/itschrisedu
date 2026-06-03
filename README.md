@@ -53,58 +53,34 @@ const itschrisedu = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="140">
-      <b>💻 Languages</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php&theme=dark" />
-    </td>
+    <td align="center" width="140"><b>💻 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center">
-      <b>🌐 Frontend</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nuxtjs,tailwind,vite&theme=dark" />
-    </td>
+    <td align="center"><b>🌐 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center">
-      <b>⚙️ Backend</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,flask,spring&theme=dark" />
-    </td>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center">
-      <b>🗄️ Databases</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase&theme=dark" />
-    </td>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center">
-      <b>☁️ DevOps & Cloud</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git&theme=dark" />
-    </td>
+    <td align="center"><b>☁️ DevOps & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,git&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="center">
-      <b>🎨 Design & Tools</b>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=figma,vscode,linux,illustrator&theme=dark" />
-    </td>
+    <td align="center"><b>🤖 AI & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,vscode,figma&theme=dark" /></td>
   </tr>
 </table>
 
