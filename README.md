@@ -97,15 +97,43 @@ const itschrisedu = {
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📦 Warehouse & Inventory System</h3>
-      <p align="center">Full-stack inventory management platform with role-based access, analytics dashboards, Stripe payments, and real-time stock control.</p>
+      <p align="center">Full-stack inventory management with role-based access, analytics dashboards, Stripe payments, and real-time stock control.</p>
       <p align="center"><strong>Next.js • React • TypeScript • MongoDB • Prisma • TailwindCSS</strong></p>
       <p align="center">
         <a href="https://github.com/itschrisedu/Warehouse-Stock-Inventory-Management-System--NextJS-FullStack">
-          <img src="https://opengraph.githubassets.com/1/itschrisedu/Warehouse-Stock-Inventory-Management-System--NextJS-FullStack" width="100%" />
+          <img src="https://github.com/user-attachments/assets/67518003-8e10-4c71-b682-911506173cdf" width="100%" />
         </a>
       </p>
       <p align="center">
         <a href="https://github.com/itschrisedu/Warehouse-Stock-Inventory-Management-System--NextJS-FullStack">🔗 View Repository</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Real-Time Online Store</h3>
+      <p align="center">E-commerce app with real-time shopping cart, product catalog, and seamless checkout experience built with React.</p>
+      <p align="center"><strong>React • Zustand • Bootstrap • Vite • Axios</strong></p>
+      <p align="center">
+        <a href="https://github.com/itschrisedu/online-store-with-react-real-time-shopping-cart">
+          <img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/tienda-online-con-carrito-de-compra-en-react.gif" width="100%" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/itschrisedu/online-store-with-react-real-time-shopping-cart">🔗 View Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Portfolio 2026</h3>
+      <p align="center">Personal portfolio with 3D WebGL demos, GLSL shaders, smooth animations, and bilingual copy.</p>
+      <p align="center"><strong>Vue 3 • TypeScript • Three.js • GSAP • Vite</strong></p>
+      <p align="center">
+        <a href="https://github.com/itschrisedu/portfolio-2026">
+          <img src="https://opengraph.githubassets.com/1/itschrisedu/portfolio-2026" width="100%" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/itschrisedu/portfolio-2026">🔗 View Repository</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -122,40 +150,12 @@ const itschrisedu = {
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 Portfolio 2026</h3>
-      <p align="center">Personal portfolio built with Vue 3, Three.js, GSAP, and GLSL shaders. Features 3D demos, bilingual copy, and smooth animations.</p>
-      <p align="center"><strong>Vue 3 • TypeScript • Three.js • GSAP • Vite</strong></p>
-      <p align="center">
-        <a href="https://github.com/itschrisedu/portfolio-2026">
-          <img src="https://opengraph.githubassets.com/1/itschrisedu/portfolio-2026" width="100%" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/itschrisedu/portfolio-2026">🔗 View Repository</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Real-Time Online Store</h3>
-      <p align="center">E-commerce app with real-time shopping cart, product catalog, and seamless checkout experience built with React.</p>
-      <p align="center"><strong>React • JavaScript • CSS</strong></p>
-      <p align="center">
-        <a href="https://github.com/itschrisedu/online-store-with-react-real-time-shopping-cart">
-          <img src="https://opengraph.githubassets.com/1/itschrisedu/online-store-with-react-real-time-shopping-cart" width="100%" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/itschrisedu/online-store-with-react-real-time-shopping-cart">🔗 View Repository</a>
-      </p>
-    </td>
-  </tr>
 </table>
 ### ⭐ Other Notable Projects
 
 | Project | Description |
 |----------|-------------|
-| 🧬 **Bioacces** | Biometric access control and user management platform. |
+| 🌎 **GeoRutas Óptimas** | Route optimization with intelligent path calculation and GIS analysis  |
 | 🎫 **MoviPass** | Transportation and digital ticket management solution. |
 | 💼 **Portfolio 2026** | Personal portfolio showcasing full stack and AI-powered projects. |
 
