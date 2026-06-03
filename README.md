@@ -90,65 +90,67 @@ const itschrisedu = {
 ## 🚀 Featured Projects
 
 <div align="center">
-
-Building scalable web applications, intelligent systems, and business-oriented software solutions.
-
+  <p>Building scalable web applications, intelligent systems, and business-oriented software solutions.</p>
 </div>
 
 <table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🛡️ Life Insurance Platform</h3>
-
-<p align="center">
-Enterprise-grade insurance management platform focused on policy administration, customer management, and scalable business workflows.
-</p>
-
-<p align="center">
-<strong>React • TypeScript • Node.js • PostgreSQL</strong>
-</p>
-
-<p align="center">
-<a href="https://github.com/itschrisedu/life_insurance_front">
-<img src="https://opengraph.githubassets.com/1/itschrisedu/life_insurance_front" width="100%" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/itschrisedu/life_insurance_front">🔗 View Repository</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🌎 GeoRutas Óptimas</h3>
-
-<p align="center">
-Route optimization system designed to improve transportation efficiency through intelligent path calculation and geographic data analysis.
-</p>
-
-<p align="center">
-<strong>Java • Algorithms • GIS • Data Structures</strong>
-</p>
-
-<p align="center">
-<a href="https://github.com/itschrisedu/GeoRutas_-ptimas">
-<img src="https://opengraph.githubassets.com/1/itschrisedu/GeoRutas_-ptimas" width="100%" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/itschrisedu/GeoRutas_-ptimas">🔗 View Repository</a>
-</p>
-
-</td>
-
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 Warehouse & Inventory System</h3>
+      <p align="center">Full-stack inventory management platform with role-based access, analytics dashboards, Stripe payments, and real-time stock control.</p>
+      <p align="center"><strong>Next.js • React • TypeScript • MongoDB • Prisma • TailwindCSS</strong></p>
+      <p align="center">
+        <a href="https://github.com/itschrisedu/Warehouse-Stock-Inventory-Management-System--NextJS-FullStack">
+          <img src="https://opengraph.githubassets.com/1/itschrisedu/Warehouse-Stock-Inventory-Management-System--NextJS-FullStack" width="100%" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/itschrisedu/Warehouse-Stock-Inventory-Management-System--NextJS-FullStack">🔗 View Repository</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 SaaS Platform</h3>
+      <p align="center">Modern SaaS application with subscription management, authentication, and scalable architecture ready for production.</p>
+      <p align="center"><strong>Next.js • TypeScript • PostgreSQL • TailwindCSS</strong></p>
+      <p align="center">
+        <a href="https://github.com/itschrisedu/saas">
+          <img src="https://opengraph.githubassets.com/1/itschrisedu/saas" width="100%" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/itschrisedu/saas">🔗 View Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Portfolio 2026</h3>
+      <p align="center">Personal portfolio built with Vue 3, Three.js, GSAP, and GLSL shaders. Features 3D demos, bilingual copy, and smooth animations.</p>
+      <p align="center"><strong>Vue 3 • TypeScript • Three.js • GSAP • Vite</strong></p>
+      <p align="center">
+        <a href="https://github.com/itschrisedu/portfolio-2026">
+          <img src="https://opengraph.githubassets.com/1/itschrisedu/portfolio-2026" width="100%" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/itschrisedu/portfolio-2026">🔗 View Repository</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Real-Time Online Store</h3>
+      <p align="center">E-commerce app with real-time shopping cart, product catalog, and seamless checkout experience built with React.</p>
+      <p align="center"><strong>React • JavaScript • CSS</strong></p>
+      <p align="center">
+        <a href="https://github.com/itschrisedu/online-store-with-react-real-time-shopping-cart">
+          <img src="https://opengraph.githubassets.com/1/itschrisedu/online-store-with-react-real-time-shopping-cart" width="100%" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/itschrisedu/online-store-with-react-real-time-shopping-cart">🔗 View Repository</a>
+      </p>
+    </td>
+  </tr>
 </table>
-
 ### ⭐ Other Notable Projects
 
 | Project | Description |
