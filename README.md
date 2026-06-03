@@ -129,7 +129,7 @@ const itschrisedu = {
       <p align="center"><strong>Vue 3 • TypeScript • Three.js • GSAP • Vite</strong></p>
       <p align="center">
         <a href="https://github.com/itschrisedu/portfolio-2026">
-          <img src="https://opengraph.githubassets.com/1/itschrisedu/portfolio-2026" width="100%" />
+          <img src="https://github.com/user-attachments/assets/3e590c91-8663-468a-af03-d1f364908e7a" width="100%" />
         </a>
       </p>
       <p align="center">
@@ -142,7 +142,7 @@ const itschrisedu = {
       <p align="center"><strong>Next.js • TypeScript • PostgreSQL • TailwindCSS</strong></p>
       <p align="center">
         <a href="https://github.com/itschrisedu/saas">
-          <img src="https://opengraph.githubassets.com/1/itschrisedu/saas" width="100%" />
+          <img src="https://github.com/user-attachments/assets/0b062dac-245a-413f-ab44-7e3be58c6bad" width="100%" />
         </a>
       </p>
       <p align="center">
@@ -151,14 +151,15 @@ const itschrisedu = {
     </td>
   </tr>
 </table>
+
 ### ⭐ Other Notable Projects
 
-| Project | Description |
-|----------|-------------|
-| 🌎 **GeoRutas Óptimas** | Route optimization with intelligent path calculation and GIS analysis  |
-| 🎫 **MoviPass** | Transportation and digital ticket management solution. |
-| 💼 **Portfolio 2026** | Personal portfolio showcasing full stack and AI-powered projects. |
-
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🛡️ **Life Insurance Platform** | Enterprise insurance management with policy administration and customer workflows | React • TypeScript • Node.js • PostgreSQL |
+| 🌎 **GeoRutas Óptimas** | Route optimization with intelligent path calculation and GIS analysis | Java • Algorithms • GIS |
+| 🧬 **Bioacces** | Biometric access control and user management platform | — |
+| 🎫 **MoviPass** | Transportation and digital ticket management solution | — |### ⭐ Other Notable Projects
 
 ---
 
