@@ -57,39 +57,58 @@ const itschrisedu = {
 
 <div align="center">
 
-### 💻 Lenguajes
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,spring,js,java,python,ts,php&theme=dark" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <b>💻 Languages</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🌐 Frontend</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nuxtjs,tailwind,vite&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>⚙️ Backend</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,flask,spring&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🗄️ Databases</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>☁️ DevOps & Cloud</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🎨 Design & Tools</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma,vscode,linux,illustrator&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-### 🌐  Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,jquery,css,bootstrap,vite,html,nuxtjs&theme=dark" />
 </div>
-
-### 🗄️ Database & Storage
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,nodejs,express,flask,django,supabase,nestjs,firebase,fastapi&theme=dark" />
-</div>
-
-### ☁️ DevOps & Cloud
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,gcp,azure,docker,kubernetes,aws&theme=dark" />
-</div>
-
-### 🖥️ Operating Systems
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,apple,ubuntu&theme=dark" />
-</div>
-</p>
-
-### 🛠️ Tools & Others
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,illustrator,xd&theme=dark" />
-</div>
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
